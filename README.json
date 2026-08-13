@@ -1,0 +1,299 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quickstart with Webpack",
+          "description": "Main features: Auto-reload, Prerendering, Minification, TailwindCSS, Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-11T09:57:05Z",
+            "owner": "seed-rs",
+            "repo": "seed-quickstart-webpack",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Default quickstart",
+          "description": "Contains only Rust libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-06T03:02:46Z",
+            "owner": "seed-rs",
+            "repo": "seed-quickstart",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Quickstarts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trunk",
+          "description": "WASM web application bundler for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T14:29:03Z",
+            "owner": "trunk-rs",
+            "repo": "trunk",
+            "stars": 4373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seeder",
+          "description": "Set up Seed app and start dev server by running one command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-18T22:37:07Z",
+            "owner": "MartinKavik",
+            "repo": "seeder",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Bundler",
+          "description": "Bundles a Seed SPA for publishing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-10-11T19:52:21Z",
+            "owner": "panoptix-za",
+            "repo": "web-bundler",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Bundlers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official examples",
+          "description": "Smaller examples included in official repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-11T09:42:45Z",
+            "owner": "seed-rs",
+            "repo": "seed",
+            "stars": 3837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealWorld example",
+          "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-11T09:53:41Z",
+            "owner": "seed-rs",
+            "repo": "seed-rs-realworld",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERWA mytodo",
+          "description": "Rust full-stack example. Diesel, Rocket, Seed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-14T16:13:27Z",
+            "owner": "seed-rs",
+            "repo": "erwa_mytodo",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark lang Realworld",
+          "description": "Seed Realworld example on Quickstart with Webpack with integrated Dark lang Realworld.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T22:03:36Z",
+            "owner": "MartinKavik",
+            "repo": "seed-realworld-darklang",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seeded Game of Life",
+          "description": "Game of life with tutorial in pure Rust inspired by wasm tutorial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-07-30T09:30:17Z",
+            "owner": "arn-the-long-beard",
+            "repo": "seeded_game_of_life",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dota Underlord Perfect Build",
+          "description": "An app to help build optimal deck in Dota Underlord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-09-18T01:41:27Z",
+            "owner": "warycat",
+            "repo": "dotawasm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pslink",
+          "description": "An URL-shortener page focused on use in publications (demo (user, password: demo)). Uses , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T23:50:27Z",
+            "owner": "transact-rs",
+            "repo": "sqlx",
+            "stars": 17386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music composer",
+          "description": "A basic music composition app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-08-02T21:58:51Z",
+            "owner": "eopb",
+            "repo": "planters-rdconf-hackathon-project",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kavik.cz",
+          "description": "Open-source personal website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-05T15:48:52Z",
+            "owner": "MartinKavik",
+            "repo": "kavik.cz",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdEx Explorer",
+          "description": "Shows curated information about the payment channel network of the AdEx advertising protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-06T19:01:42Z",
+            "owner": "heyAuraDev",
+            "repo": "adex-explorer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benxu.dev/blog",
+          "description": "A relatively simple open source personal blog. Built on , , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-12T07:23:18Z",
+            "owner": "AlterionX",
+            "repo": "benxu-dev",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Projects Using Seed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seed Bootstrap",
+          "description": "A collection of the Bootstrap CSS components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-03-08T17:57:37Z",
+            "owner": "panoptix-za",
+            "repo": "seed-bootstrap",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seed_heroicons",
+          "description": "Library providing Heroicons to include into Seed-based applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-06-27T18:13:29Z",
+            "owner": "mh84",
+            "repo": "seed_heroicons",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:29.017Z",
+    "original_repository": "seed-rs/awesome-seed-rs",
+    "original_repository_sha": "3f593f25ad8052807021776cbcc3617794bb35ac",
+    "enhanced_repository": "enhansome/enhansome-seed-rs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Seed RS with stars"
+  }
+}
