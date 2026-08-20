@@ -195,7 +195,7 @@
             "archived": false,
             "id": 230595891,
             "language": "Rust",
-            "last_commit": "2026-08-19T02:44:54Z",
+            "last_commit": "2026-08-20T06:38:58Z",
             "owner": "transact-rs",
             "repo": "sqlx",
             "stars": 17399
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:47.360Z",
+    "last_updated": "2026-08-20T11:03:54.880Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "original_repository_id": 199066695,
     "original_repository_sha": "3f593f25ad8052807021776cbcc3617794bb35ac",
