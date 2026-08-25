@@ -42,7 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Bundlers
 
-* [Trunk](https://github.com/thedodd/trunk) ⭐ 4,373 | 🐛 139 | 🌐 Rust | 📅 2026-08-01 - WASM web application bundler for Rust.
+* [Trunk](https://github.com/thedodd/trunk) ⭐ 4,373 | 🐛 137 | 🌐 Rust | 📅 2026-08-25 - WASM web application bundler for Rust.
 * [Seeder](https://github.com/MartinKavik/seeder) ⭐ 43 | 🐛 5 | 📅 2021-12-18 - Set up Seed app and start dev server by running one command.
 * [Web Bundler](https://github.com/panoptix-za/web-bundler) ⚠️ Archived - Bundles a Seed SPA for publishing.
 
