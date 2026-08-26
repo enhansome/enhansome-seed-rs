@@ -48,10 +48,10 @@
             "archived": false,
             "id": 288799056,
             "language": "Rust",
-            "last_commit": "2026-08-25T08:00:00Z",
+            "last_commit": "2026-08-26T09:35:02Z",
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4373
+            "stars": 4375
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-20T06:38:58Z",
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17409
+            "stars": 17426
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:04:37.623Z",
+    "last_updated": "2026-08-26T11:09:21.527Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "original_repository_id": 199066695,
     "original_repository_sha": "3f593f25ad8052807021776cbcc3617794bb35ac",
