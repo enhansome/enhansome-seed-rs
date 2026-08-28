@@ -16,7 +16,8 @@
             "owner": "seed-rs",
             "repo": "seed-quickstart-webpack",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "seed-rs",
             "repo": "seed-quickstart",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         }
       ],
       "title": "Quickstarts"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-26T09:35:02Z",
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4376
-          }
+            "stars": 4378
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "MartinKavik",
             "repo": "seeder",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "panoptix-za",
             "repo": "web-bundler",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         }
       ],
       "title": "Bundlers"
@@ -103,7 +108,8 @@
             "owner": "seed-rs",
             "repo": "seed",
             "stars": 3836
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "seed-rs",
             "repo": "seed-rs-realworld",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "seed-rs",
             "repo": "erwa_mytodo",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "MartinKavik",
             "repo": "seed-realworld-darklang",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "arn-the-long-beard",
             "repo": "seeded_game_of_life",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "warycat",
             "repo": "dotawasm",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         }
       ],
       "title": "Examples"
@@ -198,8 +209,9 @@
             "last_commit": "2026-08-20T06:38:58Z",
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17431
-          }
+            "stars": 17434
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "eopb",
             "repo": "planters-rdconf-hackathon-project",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "MartinKavik",
             "repo": "kavik.cz",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "heyAuraDev",
             "repo": "adex-explorer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "AlterionX",
             "repo": "benxu-dev",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         }
       ],
       "title": "Projects Using Seed"
@@ -280,7 +296,8 @@
             "owner": "panoptix-za",
             "repo": "seed-bootstrap",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         },
         {
           "node_type": "item",
@@ -295,14 +312,15 @@
             "owner": "mh84",
             "repo": "seed_heroicons",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:16.083Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:46:33.223Z",
+    "last_updated": "2026-08-28T21:15:16.083Z",
     "original_repository_info": {
       "archived": false,
       "id": 199066695,
