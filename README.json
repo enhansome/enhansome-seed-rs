@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for web apps with Seed (Rust framework), TailwindCSS and Webpack.",
+            "homepage": null,
             "id": 177839601,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-11T09:57:05Z",
+            "open_issues": 20,
             "owner": "seed-rs",
             "repo": "seed-quickstart-webpack",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "github-actions",
+              "handlebars",
+              "netlify",
+              "prerendering",
+              "rust",
+              "seed",
+              "tailwindcss",
+              "template",
+              "web-assembly",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -26,12 +42,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare essentials to start a Seed app.",
+            "homepage": null,
             "id": 159963880,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-09-06T03:02:46Z",
+            "open_issues": 5,
             "owner": "seed-rs",
             "repo": "seed-quickstart",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "framework",
+              "frontend",
+              "rust",
+              "seed",
+              "template",
+              "web-assembly"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         }
@@ -48,12 +76,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, bundle & ship your Rust WASM application to the web.",
+            "homepage": "https://trunk-rs.github.io/trunk/",
             "id": 288799056,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:35:02Z",
+            "open_issues": 135,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4378
+            "stars": 4378,
+            "topics": [
+              "assets",
+              "build-tool",
+              "bundler",
+              "compiler",
+              "html",
+              "rust",
+              "sass",
+              "scss",
+              "wasm",
+              "wasm-bindgen"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -64,12 +108,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up Seed app and start dev server by running one command",
+            "homepage": "https://seed-rs.org/",
             "id": 239721570,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-12-18T22:37:07Z",
+            "open_issues": 5,
             "owner": "MartinKavik",
             "repo": "seeder",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "quickstart",
+              "rust",
+              "seed",
+              "template",
+              "web-assembly"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -80,12 +135,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bundles a Rust WebAssembly frontend application for publishing",
+            "homepage": null,
             "id": 326944026,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-11T19:52:21Z",
+            "open_issues": 4,
             "owner": "panoptix-za",
             "repo": "web-bundler",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "build-script",
+              "cargo",
+              "frontend",
+              "rust",
+              "seed",
+              "wasm",
+              "wasm-pack",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         }
@@ -102,12 +171,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust framework for creating web apps",
+            "homepage": null,
             "id": 159957569,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-11T09:42:45Z",
+            "open_issues": 55,
             "owner": "seed-rs",
             "repo": "seed",
-            "stars": 3836
+            "stars": 3836,
+            "topics": [
+              "frontend-framework",
+              "rust",
+              "wasm",
+              "wasm-bindgen",
+              "web-framework",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -118,12 +199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exemplary real world application built with Seed",
+            "homepage": null,
             "id": 191424963,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-11T09:53:41Z",
+            "open_issues": 4,
             "owner": "seed-rs",
             "repo": "seed-rs-realworld",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "example",
+              "framework",
+              "frontend",
+              "realworld",
+              "rust",
+              "seed",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -134,12 +228,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust full-stack example. Diesel, Rocket, Seed.",
+            "homepage": "https://erwabook.com/intro/index.html",
             "id": 210580506,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-06-14T16:13:27Z",
+            "open_issues": 6,
             "owner": "seed-rs",
             "repo": "erwa_mytodo",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "diesel",
+              "example",
+              "rocket",
+              "rust",
+              "seed"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -150,12 +255,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seed RealWorld example with Dark lang backend",
+            "homepage": "https://seed-realworld-darklang.netlify.com/",
             "id": 236715404,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-20T22:03:36Z",
+            "open_issues": 22,
             "owner": "MartinKavik",
             "repo": "seed-realworld-darklang",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "darklang",
+              "realworld",
+              "rust",
+              "seed",
+              "wasm",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -166,12 +283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 281688222,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-07-30T09:30:17Z",
+            "open_issues": 0,
             "owner": "arn-the-long-beard",
             "repo": "seeded_game_of_life",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -182,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 296180037,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-09-18T01:41:27Z",
+            "open_issues": 1,
             "owner": "warycat",
             "repo": "dotawasm",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         }
@@ -204,12 +331,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+            "homepage": null,
             "id": 230595891,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T06:38:58Z",
+            "open_issues": 771,
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17434
+            "stars": 17434,
+            "topics": [
+              "async",
+              "await",
+              "mariadb",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "rust",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -220,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 281964431,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-08-02T21:58:51Z",
+            "open_issues": 0,
             "owner": "eopb",
             "repo": "planters-rdconf-hackathon-project",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -236,12 +383,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal website in Rust.",
+            "homepage": "https://kavik.cz",
             "id": 203573820,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-05-05T15:48:52Z",
+            "open_issues": 21,
             "owner": "MartinKavik",
             "repo": "kavik.cz",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "personal",
+              "rust",
+              "seed",
+              "tailwindcss",
+              "wasm",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -252,12 +411,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple UI for exploring AdEx campaigns/channels",
+            "homepage": "https://explorer.adex.network/",
             "id": 178671447,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-06-06T19:01:42Z",
+            "open_issues": 7,
             "owner": "heyAuraDev",
             "repo": "adex-explorer",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adex",
+              "advertising",
+              "blockchain",
+              "explorer",
+              "micropayments",
+              "rust",
+              "seed-rs",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -268,12 +441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My website, built with Rust",
+            "homepage": null,
             "id": 195917214,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-07-12T07:23:18Z",
+            "open_issues": 1,
             "owner": "AlterionX",
             "repo": "benxu-dev",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         }
@@ -290,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 327302064,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-08T17:57:37Z",
+            "open_issues": 2,
             "owner": "panoptix-za",
             "repo": "seed-bootstrap",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         },
@@ -306,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 380734651,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-06-27T18:13:29Z",
+            "open_issues": 0,
             "owner": "mh84",
             "repo": "seed_heroicons",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:16.083Z"
         }
@@ -320,15 +508,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:16.083Z",
+    "last_updated": "2026-08-29T04:51:08.295Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Seed",
+      "homepage": null,
       "id": 199066695,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-01-11T09:48:38Z",
+      "open_issues": 0,
       "owner": "seed-rs",
       "repo": "awesome-seed-rs",
-      "stars": 231
+      "stars": 231,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "framework",
+        "frontend",
+        "rust",
+        "seed",
+        "wasm"
+      ]
     },
     "original_repository_sha": "3f593f25ad8052807021776cbcc3617794bb35ac",
     "enhanced_repository": "enhansome/enhansome-seed-rs",
