@@ -85,7 +85,7 @@
             "open_issues": 136,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4382,
+            "stars": 4383,
             "topics": [
               "assets",
               "build-tool",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:42:33.865Z",
+    "last_updated": "2026-09-01T15:11:36.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
