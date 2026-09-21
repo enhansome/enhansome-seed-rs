@@ -81,7 +81,7 @@
             "id": 288799056,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T13:05:22Z",
+            "last_commit": "2026-09-21T08:04:20Z",
             "open_issues": 135,
             "owner": "trunk-rs",
             "repo": "trunk",
@@ -337,7 +337,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T15:02:33Z",
-            "open_issues": 754,
+            "open_issues": 755,
             "owner": "transact-rs",
             "repo": "sqlx",
             "stars": 17487,
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:21:28.754Z",
+    "last_updated": "2026-09-21T16:36:01.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
