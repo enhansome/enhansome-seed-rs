@@ -85,7 +85,7 @@
             "open_issues": 135,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4393,
+            "stars": 4394,
             "topics": [
               "assets",
               "build-tool",
@@ -340,7 +340,7 @@
             "open_issues": 755,
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17487,
+            "stars": 17488,
             "topics": [
               "async",
               "await",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:36:01.806Z",
+    "last_updated": "2026-09-22T15:10:38.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
