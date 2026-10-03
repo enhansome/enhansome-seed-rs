@@ -340,7 +340,7 @@
             "open_issues": 782,
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17521,
+            "stars": 17520,
             "topics": [
               "async",
               "await",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:22:16.648Z",
+    "last_updated": "2026-10-03T05:09:47.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
