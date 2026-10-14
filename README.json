@@ -336,11 +336,11 @@
             "id": 230595891,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T03:49:35Z",
+            "last_commit": "2026-10-14T05:09:46Z",
             "open_issues": 784,
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17561,
+            "stars": 17565,
             "topics": [
               "async",
               "await",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:48:01.561Z",
+    "last_updated": "2026-10-14T15:29:58.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
