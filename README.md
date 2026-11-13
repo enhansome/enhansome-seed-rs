@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Official Resources
 
 * ~~Homepage~~
-* [GitHub repo](https://github.com/seed-rs/seed) ⭐ 3,832 | 🐛 55 | 🌐 Rust | 📅 2026-11-01
+* [GitHub repo](https://github.com/seed-rs/seed) ⭐ 3,830 | 🐛 55 | 🌐 Rust | 📅 2026-11-01
 * [Forum](https://seed.discourse.group)
 * [Chat](https://discord.gg/JHHcHp5)
 
@@ -37,7 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Quickstarts
 
-* [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) ⭐ 113 | 🐛 20 | 🌐 Rust | 📅 2025-01-11 - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
+* [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) ⭐ 112 | 🐛 20 | 🌐 Rust | 📅 2025-01-11 - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
 * [Default quickstart](https://github.com/seed-rs/seed-quickstart) ⭐ 99 | 🐛 5 | 🌐 Rust | 📅 2022-09-06 - Contains only Rust libraries.
 
 ## Bundlers
@@ -48,8 +48,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Examples
 
-* [Official examples](https://github.com/seed-rs/seed/tree/master/examples) ⭐ 3,832 | 🐛 55 | 🌐 Rust | 📅 2026-11-01 - Smaller examples included in official repo.
-* [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) ⭐ 125 | 🐛 4 | 🌐 Rust | 📅 2025-01-11 - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+* [Official examples](https://github.com/seed-rs/seed/tree/master/examples) ⭐ 3,830 | 🐛 55 | 🌐 Rust | 📅 2026-11-01 - Smaller examples included in official repo.
+* [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) ⭐ 123 | 🐛 4 | 🌐 Rust | 📅 2025-01-11 - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
 * [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) ⭐ 10 | 🐛 6 | 🌐 Rust | 📅 2023-06-14 - Rust full-stack example. Diesel, Rocket, Seed.
 * [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) ⭐ 9 | 🐛 22 | 🌐 Rust | 📅 2023-01-20 - Seed Realworld example on *Quickstart with Webpack* with integrated [Dark lang](https://darklang.com/) Realworld.
 * [Seeded Game of Life](https://github.com/arn-the-long-beard/seeded_game_of_life) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2020-07-30 - Game of life with [tutorial](https://dev.to/arnthelongbeard/how-to-only-rust-for-web-frontend-1026) in pure Rust inspired by [wasm tutorial](https://rustwasm.github.io/docs/book/).
@@ -59,7 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Projects Using Seed
 
-* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 17,664 | 🐛 781 | 🌐 Rust | 📅 2026-11-10.
+* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 17,664 | 🐛 782 | 🌐 Rust | 📅 2026-11-10.
 * [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2020-08-02 - A basic music composition app.
 * [Kavik.cz](https://github.com/MartinKavik/kavik.cz) ⭐ 5 | 🐛 21 | 🌐 Rust | 📅 2026-05-05 - Open-source personal website.
 * [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) ⭐ 3 | 🐛 7 | 🌐 Rust | 📅 2022-06-06 - Shows curated information about the payment channel network of the AdEx advertising protocol.
@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

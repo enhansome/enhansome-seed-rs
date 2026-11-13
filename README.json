@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "seed-rs",
             "repo": "seed-quickstart-webpack",
-            "stars": 113,
+            "stars": 112,
             "topics": [
               "github-actions",
               "handlebars",
@@ -180,7 +180,7 @@
             "open_issues": 55,
             "owner": "seed-rs",
             "repo": "seed",
-            "stars": 3832,
+            "stars": 3830,
             "topics": [
               "frontend-framework",
               "rust",
@@ -208,7 +208,7 @@
             "open_issues": 4,
             "owner": "seed-rs",
             "repo": "seed-rs-realworld",
-            "stars": 125,
+            "stars": 123,
             "topics": [
               "example",
               "framework",
@@ -337,7 +337,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T16:11:44Z",
-            "open_issues": 781,
+            "open_issues": 782,
             "owner": "transact-rs",
             "repo": "sqlx",
             "stars": 17664,
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:36:05.974Z",
+    "last_updated": "2026-11-13T18:05:31.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
@@ -520,7 +520,7 @@
       "open_issues": 0,
       "owner": "seed-rs",
       "repo": "awesome-seed-rs",
-      "stars": 231,
+      "stars": 230,
       "topics": [
         "awesome",
         "awesome-list",
