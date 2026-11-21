@@ -337,10 +337,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T17:02:05Z",
-            "open_issues": 777,
+            "open_issues": 782,
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17705,
+            "stars": 17712,
             "topics": [
               "async",
               "await",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:50:54.924Z",
+    "last_updated": "2026-11-21T17:46:35.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Seed",
@@ -520,7 +520,7 @@
       "open_issues": 0,
       "owner": "seed-rs",
       "repo": "awesome-seed-rs",
-      "stars": 230,
+      "stars": 231,
       "topics": [
         "awesome",
         "awesome-list",
